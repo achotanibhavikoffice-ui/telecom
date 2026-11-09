@@ -1,3 +1,23 @@
+---
+title: Telco Customer Churn Intelligence Dashboard
+emoji: 📊
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.39.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python%203.10+-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/ML%20Core-XGBoost-EB5424" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Visuals-Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
+  <a href="https://orcid.org/0009-0006-3098-6175"><img src="https://img.shields.io/badge/ORCID-0009--0006--3098--6175-A6CE39?logo=orcid&logoColor=white" alt="ORCID: 0009-0006-3098-6175"></a>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+</p>
 
 # Predicting Customer Churn in the Telecommunications Industry Using XGBoost with Explainable Dashboard Integration
 
