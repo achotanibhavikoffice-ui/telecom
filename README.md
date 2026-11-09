@@ -15,6 +15,7 @@ license: mit
   <img src="https://img.shields.io/badge/ML%20Core-XGBoost-EB5424" alt="XGBoost">
   <img src="https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Visuals-Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
+  <a href="https://huggingface.co/spaces/achotanibhavikoffice-ui/telecom-churn-demo"><img src="https://img.shields.io/badge/Live%20Demo-Hugging%20Face%20Spaces-FFD21E?logo=huggingface&logoColor=black" alt="Live Demo on Hugging Face"></a>
   <a href="https://orcid.org/0009-0006-3098-6175"><img src="https://img.shields.io/badge/ORCID-0009--0006--3098--6175-A6CE39?logo=orcid&logoColor=white" alt="ORCID: 0009-0006-3098-6175"></a>
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
 </p>
